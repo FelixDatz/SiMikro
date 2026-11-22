@@ -145,7 +145,7 @@ Status transaksi yang direncanakan:
 
 | Nama | GitHub | Peran dan Tanggung Jawab |
 |---|---|---|
-| Narendra Lintang Saputra | [Rawlseyyy-N](https://github.com/Rawlseyyy-N) | **Lead / Backend Developer** — Integrasi Firebase, autentikasi, database, validasi stok, transaksi, Security Rules, dan state management. |
+| Narendra Lintang Saputra | [Rawlseyyy](https://github.com/Rawlseyyy) | **Lead / Backend Developer** — Integrasi Firebase, autentikasi, database, validasi stok, transaksi, Security Rules, dan state management. |
 | Eka Putra Noandheli | [ekaaptrnn](https://github.com/ekaaptrnn) | **Project Manager / Admin Developer** — Pengelolaan backlog, target mingguan, repository, pull request, dan pengembangan fitur admin. |
 | Galang Nur Seto | [Galangnurseto](https://github.com/Galangnurseto) | **UI/UX Designer** — Wireframe, mockup, design system, dan aset visual aplikasi. |
 | Felix Trinidat | [FelixDatz](https://github.com/FelixDatz) | **Front-End Developer** — Implementasi Splash Screen, Home, Katalog, Detail Alat, bottom navigation, dan shared widgets. |
